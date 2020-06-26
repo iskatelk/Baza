@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{20D4826A-C6FA-45DB-90F4-C717570B9F32}") = "BazaDanix3", "BazaDanix3\BazaDanix3.csdproj", "{CF1C4256-7C84-4E99-B438-4C06D342C2DC}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{CF1C4256-7C84-4E99-B438-4C06D342C2DC}.Debug.ActiveCfg = Debug|Pocket PC
+		{CF1C4256-7C84-4E99-B438-4C06D342C2DC}.Debug.Build.0 = Debug|Pocket PC
+		{CF1C4256-7C84-4E99-B438-4C06D342C2DC}.Debug.Deploy.0 = Debug|Pocket PC
+		{CF1C4256-7C84-4E99-B438-4C06D342C2DC}.Release.ActiveCfg = Release|Pocket PC
+		{CF1C4256-7C84-4E99-B438-4C06D342C2DC}.Release.Build.0 = Release|Pocket PC
+		{CF1C4256-7C84-4E99-B438-4C06D342C2DC}.Release.Deploy.0 = Release|Pocket PC
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
